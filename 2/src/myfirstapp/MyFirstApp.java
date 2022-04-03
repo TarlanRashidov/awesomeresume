@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package javaapplication6;
+package myfirstapp;
 
 /**
  *
- * @author SAMSUNG
+ * @author Elvin Sadikh
  */
-public class JavaApplication6 {
+public class MyFirstApp {
 
     /**
      * @param args the command line arguments
